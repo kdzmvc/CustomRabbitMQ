@@ -1,0 +1,7 @@
+E:\work\workspace\rabbitmq\rabbit-task\src\main\java\com\bfxy\rabbit\task\enums\ElasticJobTypeEnum.java
+E:\work\workspace\rabbitmq\rabbit-task\src\main\java\com\bfxy\rabbit\task\autoconfigure\JobZookeeperProperties.java
+E:\work\workspace\rabbitmq\rabbit-task\src\main\java\com\bfxy\rabbit\task\annotation\ElasticJobConfig.java
+E:\work\workspace\rabbitmq\rabbit-task\src\main\java\com\bfxy\rabbit\task\autoconfigure\JobParserAutoConfigurartion.java
+E:\work\workspace\rabbitmq\rabbit-task\src\main\java\com\bfxy\rabbit\task\Application.java
+E:\work\workspace\rabbitmq\rabbit-task\src\main\java\com\bfxy\rabbit\task\parser\ElasticJobConfParser.java
+E:\work\workspace\rabbitmq\rabbit-task\src\main\java\com\bfxy\rabbit\task\annotation\EnableElasticJob.java

@@ -1,0 +1,9 @@
+E:\work\workspace\rabbitmq\rabbit-common\src\main\java\com\bfxy\rabbit\common\util\FastJsonConvertUtil.java
+E:\work\workspace\rabbitmq\rabbit-common\src\main\java\com\bfxy\rabbit\common\mybatis\handler\MessageJsonTypeHandler.java
+E:\work\workspace\rabbitmq\rabbit-common\src\main\java\com\bfxy\rabbit\common\serializer\impl\JacksonSerializer.java
+E:\work\workspace\rabbitmq\rabbit-common\src\main\java\com\bfxy\rabbit\common\Application.java
+E:\work\workspace\rabbitmq\rabbit-common\src\main\java\com\bfxy\rabbit\common\convert\GenericMessageConverter.java
+E:\work\workspace\rabbitmq\rabbit-common\src\main\java\com\bfxy\rabbit\common\serializer\Serializer.java
+E:\work\workspace\rabbitmq\rabbit-common\src\main\java\com\bfxy\rabbit\common\serializer\SerializerFactory.java
+E:\work\workspace\rabbitmq\rabbit-common\src\main\java\com\bfxy\rabbit\common\convert\RabbitMessageConverter.java
+E:\work\workspace\rabbitmq\rabbit-common\src\main\java\com\bfxy\rabbit\common\serializer\impl\JacksonSerializerFactory.java
